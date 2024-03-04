@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ae7ac6d-6572-42f0-bb12-4cbaacd10d65" name="Changes" comment="" />
+    <list default="true" id="33a48e6a-95fc-4b7d-bd59-8ab461ff3986" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,9 +13,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 8
 }]]></component>
-  <component name="ProjectId" id="2czJvtKJ2Gge14gkRBP8zXkOwKJ" />
+  <component name="ProjectId" id="2d22ox57Z2r1hFKdijrB44WjOnD" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -23,7 +26,6 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Lecture/02_MySQL/01_lecture-source",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -31,12 +33,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0ae7ac6d-6572-42f0-bb12-4cbaacd10d65" name="Changes" comment="" />
-      <created>1709108707505</created>
+      <changelist id="33a48e6a-95fc-4b7d-bd59-8ab461ff3986" name="Changes" comment="" />
+      <created>1709192032586</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1709108707505</updated>
-      <workItem from="1709108708546" duration="10000" />
+      <updated>1709192032586</updated>
+      <workItem from="1709192034763" duration="53000" />
     </task>
     <servers />
   </component>
